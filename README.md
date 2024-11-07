@@ -8,24 +8,21 @@
   <div>
     <h2>✨ About Me</h2>
     <ul>
-      <img src="https://i.pinimg.com/736x/15/de/99/15de992b93764f6dd5e0ed27b031d467.jpg" alt="Cat Image" width="250" height="145" align="right">
+      <img src="https://i.pinimg.com/736x/15/de/99/15de992b93764f6dd5e0ed27b031d467.jpg" alt="Cat Image" width="350" height="200" align="right">
       <li>👨‍🎓 I am currently pursuing a degree in software engineering</li>
       <li>📊 I am interested in data analytics</li>
       <li>🌐 I enjoy working on projects related to web development and data science</li>
       <li>💻 Skilled in Python and SQL</li>
       <li>📚 Constantly learning about machine learning and AI</li>
-      <br>
     </ul>
+    <p>
+      <strong>🤗 Connect with me:</strong><br>
+        <a href="https://www.linkedin.com/in/jiehni-koh-6a4447216/" target="_blank">
+            <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn">
+        </a>
+    </p>
   </div>
 </div>
-
-<div align="right" style="font-size: 12px;">
-    <strong>🤗 Connect with me:</strong><br>
-    <a href="https://www.linkedin.com/in/jiehni-koh-6a4447216/" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn">
-    </a>
-</div>
-
 
 <!--
 **jiehnii/jiehnii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
