@@ -19,6 +19,7 @@
 </div>
 
 <div align="right" style="font-size: 12px;">
+    <p> </p>
     <strong>🤗 Connect with me:</strong><br>
     <a href="https://www.linkedin.com/in/jiehni-koh-6a4447216/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn">
