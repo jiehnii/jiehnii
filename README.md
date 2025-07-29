@@ -9,7 +9,7 @@
     <h2>✨ About Me</h2>
     <ul>
       <img src="https://i.pinimg.com/736x/15/de/99/15de992b93764f6dd5e0ed27b031d467.jpg" alt="Cat Image" width="350" height="200" align="right">
-      <li>👨‍🎓 I am currently pursuing a degree in software engineering</li>
+      <li>👨‍🎓 I am currently pursuing a degree in data science</li>
       <li>📊 I am interested in data analytics</li>
       <li>🌐 I enjoy working on projects related to web development and data science</li>
       <li>💻 Skilled in Python and SQL</li>
